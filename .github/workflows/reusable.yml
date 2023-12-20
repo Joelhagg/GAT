@@ -5,7 +5,7 @@ on:
     inputs: 
       who-to-greet:
         description: 'The person to greet'
-        type: 'string'
+        type: string
         required: true
         default: World
     outputs: 
